@@ -43,26 +43,10 @@ questionsIdIteration();
 console.log(nextQuestion());
 console.log(quiz.userAnswer);
 
-
-//   function nextQuestion(){
-//     to display the next question
-
-//     return 
-//   }
-// nextQuestion();
-// console.log(quiz);
-// selectAnswer(1);
-// console.log(quiz);
-// nextQuestion();
-// selectAnswer(0);
-// nextQuestion();
-// newQuiz();
+//////////////////RUN ON LOAD OF PAGE///////////////////
+$(function(){
 
 
 
-
-
-  // <li id="0">Augusta</li>
-
-
-
+    
+})
